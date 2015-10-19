@@ -1,0 +1,12 @@
+body {
+	background-color: #000500;
+}
+header {
+	text-align: center;
+	color: #0000ff;
+	font-size: 26px;
+}
+main {
+	text-align: right;
+	color: #ff0000;
+}
